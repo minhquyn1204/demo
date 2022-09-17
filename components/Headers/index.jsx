@@ -4,11 +4,10 @@ import styles from './styles.module.scss';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import clsx from 'clsx';
-import Nav from './Nav';
-// import dynamic from 'next/dynamic';
-// const Nav = dynamic(() => import('./Nav'), {
-//   ssr: false,
-// });
+import dynamic from 'next/dynamic';
+const Nav = dynamic(() => import('./Nav'), {
+  ssr: false,
+});
 
 export default function Headers() {
   const router = useRouter();
