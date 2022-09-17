@@ -1,0 +1,13 @@
+.search {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  .titleSercives {
+    font-size: 26px;
+    font-weight: 400;
+  }
+  .textfield {
+    width: 50%;
+  }
+}

@@ -1,0 +1,96 @@
+.Information {
+  max-width: 1140px;
+  position: relative;
+  margin: 0 auto;
+  .body {
+    width: 100%;
+    position: relative;
+    background: #ffffff;
+    padding: 20px 0;
+    top: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 540px;
+    .taskbar {
+      display: none;
+    }
+    h3 {
+      text-align: center;
+    }
+    .inputForm {
+      width: 40%;
+      margin: 0 auto;
+    }
+    .exit {
+      position: absolute;
+      left: 30px;
+      bottom: 30px;
+      padding: 50px 50px 0px 50px;
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .Information {
+    max-width: 1140px;
+    position: relative;
+    margin: 0 auto;
+    .body {
+      width: 100%;
+      position: unset;
+      background: #f4fff7;
+      padding: 0;
+      border-top-right-radius: unset;
+      border-bottom-right-radius: unset;
+      border-bottom-left-radius: unset;
+      height: 100vh;
+      .taskbar {
+        padding: 20px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        .back {
+          svg {
+            width: 25px;
+            height: 25px;
+            font-weight: 500;
+            color: #006c4e;
+          }
+        }
+        .title {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          font-size: 20px;
+          color: #006c4e;
+          font-weight: 500;
+        }
+      }
+      h3 {
+        text-align: center;
+        margin: 0;
+        margin-bottom: 20px;
+        font-size: 18px;
+      }
+      .inputForm {
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+      }
+      .exit {
+        position: unset;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        Button {
+          background-color: #006c4e;
+          width: 250px;
+          border-radius: 50px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+  .content {
+    padding: 10px;
+    .name {
+    }
+    .desc {
+      margin-bottom: 5px;
+    }
+    .handle {
+      display: flex;
+      justify-content: flex-end;
+      Button {
+        color: #fff;
+        background-color: #006c4e;
+      }
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .card {
+  }
+}

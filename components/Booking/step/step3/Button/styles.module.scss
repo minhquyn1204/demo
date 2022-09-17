@@ -1,0 +1,38 @@
+.exit {
+  position: absolute;
+  left: 30px;
+  bottom: 30px;
+  padding: 0 50px;
+}
+.next {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  padding: 0 50px;
+}
+@media screen and (max-width: 900px) {
+  .exit {
+    left: 10px;
+    bottom: 10px;
+  }
+  .next {
+    right: 10px;
+    bottom: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .exit {
+    display: none;
+  }
+  .next {
+    position: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Button {
+      background-color: #006c4e;
+      width: 250px;
+      border-radius: 50px;
+    }
+  }
+}

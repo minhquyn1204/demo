@@ -1,0 +1,51 @@
+.headers {
+  position: sticky;
+  z-index: 99;
+  background: #fff;
+  top: 0;
+  .Header {
+    max-width: 1140px;
+    margin: 0 auto;
+    height: 80px;
+
+    .Logo {
+      cursor: pointer;
+    }
+    .Navbar {
+      display: flex;
+      align-items: center;
+      width: 100%;
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .headers {
+    position: fixed;
+    z-index: 99;
+    background: #fff;
+    height: 50px;
+    bottom: 20px;
+    top: unset;
+    width: 94%;
+    border-radius: 50px;
+    left: 3%;
+    .Header {
+      width: 100%;
+      max-width: 1140px;
+      margin: 0 auto;
+      height: 50px;
+
+      .Logo {
+        display: none;
+      }
+      .Navbar {
+        color: #000;
+        display: flex;
+        align-items: center;
+      }
+    }
+    .Header.active {
+      display: none;
+    }
+  }
+}

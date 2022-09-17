@@ -1,0 +1,117 @@
+.cart {
+  .titleCart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    background-color: #006c4e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    h5 {
+      color: #fff;
+    }
+    Button {
+      display: none;
+    }
+  }
+  .carts {
+    padding: 15px;
+    height: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    .item {
+      display: flex;
+      justify-content: space-between;
+      padding: 5px 0;
+      .name {
+        width: 50%;
+        font-size: 17px;
+      }
+      .price {
+        width: 35%;
+        display: flex;
+        justify-content: flex-end;
+        .VND {
+          display: flex;
+          align-items: flex-start;
+          font-size: 10px;
+        }
+      }
+      .remove {
+        text-align: center;
+        width: 15%;
+        color: #ff3333;
+        svg {
+          cursor: pointer;
+        }
+      }
+    }
+  }
+  .total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #dedede;
+    padding: 10px;
+    .title {
+      display: flex;
+      flex-direction: column;
+      color: #000000;
+      align-items: center;
+      h5 {
+        margin: 0;
+      }
+    }
+    .cartTotal {
+      color: #008863;
+      font-weight: 600;
+      display: flex;
+      .VND {
+        display: flex;
+        align-items: flex-start;
+        font-size: 10px;
+      }
+    }
+    Button {
+      background-color: #006c4e;
+      color: #fff;
+    }
+  }
+}
+@media screen and (max-width: 900px) {
+  .total {
+    font-size: 11px;
+    Button {
+      font-size: 11px;
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .cart {
+    .titleCart {
+      position: relative;
+      height: 50px;
+      h5 {
+      }
+      Button {
+        display: block;
+        position: absolute;
+        right: 0;
+        color: #fff;
+      }
+    }
+    .carts {
+      height: 200px;
+      .item {
+        .name {
+          width: 50%;
+          font-size: 16px;
+        }
+        .price {
+          width: 35%;
+          text-align: right;
+        }
+      }
+    }
+  }
+}

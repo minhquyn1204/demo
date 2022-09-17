@@ -1,0 +1,22 @@
+.GridCard {
+  margin-bottom: 10px;
+  height: 350px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  .items {
+    padding: 0 5px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .GridCard {
+    margin-bottom: unset;
+    height: 363px;
+    overflow-y: unset;
+    overflow-x: unset;
+    .items {
+      padding: 0 5px;
+      margin-bottom: 10px;
+    }
+  }
+}

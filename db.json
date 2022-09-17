@@ -1,0 +1,233 @@
+{
+  "Location": [
+    {
+      "data": {
+        "id": 1,
+        "name": "Hair 1",
+        "star": 3,
+        "img": "https://theartofhair.us/wp-content/uploads/The_art_of_hair_location.jpg",
+        "address": "XG4P+FQ6, Cham Islands, Tp. Hội An, Quảng Nam, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d678.1332505737457!2d108.53682308986032!3d15.956103216881145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31426f16a67c91bb%3A0x5c7982ca33b10d3f!2zxJDDqG4gQmnhu4NuIEPDuSBMYW8gQ2jDoG0!5e0!3m2!1svi!2s!4v1661847748142!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 2,
+        "name": "Hair 2",
+        "star": 5,
+        "img": "https://www.salonsdirect.com/blog/wp-content/uploads/2016/07/Choosing-premises-for-your-salon-840x700.png",
+        "address": "234 Đỗ Bá, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 3,
+        "name": "Hair 3",
+        "star": 2,
+        "img": "https://www.flanaganarchitects.com/wp-content/uploads/2016/10/Blo-Hair-0-1.jpg",
+        "address": "234 Châu Thị Vĩnh Tế, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 4,
+        "name": "Hair 4",
+        "star": 2,
+        "img": "https://www.flanaganarchitects.com/wp-content/uploads/2016/10/Blo-Hair-0-1.jpg",
+        "address": "234 Châu Thị Vĩnh Tế, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 5,
+        "name": "Hair 5",
+        "star": 3,
+        "img": "https://www.flanaganarchitects.com/wp-content/uploads/2016/10/Blo-Hair-0-1.jpg",
+        "address": "234 Châu Thị Vĩnh Tế, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 6,
+        "name": "Hair 5",
+        "star": 3,
+        "img": "https://www.flanaganarchitects.com/wp-content/uploads/2016/10/Blo-Hair-0-1.jpg",
+        "address": "234 Châu Thị Vĩnh Tế, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    },
+    {
+      "data": {
+        "id": 7,
+        "name": "Hair 5",
+        "star": 3,
+        "img": "https://www.flanaganarchitects.com/wp-content/uploads/2016/10/Blo-Hair-0-1.jpg",
+        "address": "234 Châu Thị Vĩnh Tế, Bắc Mỹ Phú, Ngũ Hành Sơn, Đà Nẵng 550000, Việt Nam",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.2996452139696!2d108.23717341438511!3d16.04993314421905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421762c0f78281%3A0xeacd6df34a0a5cac!2zMjM0IMSQ4buXIELDoSwgQuG6r2MgTeG7uSBQaMO6LCBOZ8WpIEjDoG5oIFPGoW4sIMSQw6AgTuG6tW5nIDU1MDAwMCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1661850774872!5m2!1svi!2s"
+      }
+    }
+  ],
+  "Product": [
+    {
+      "data": {
+        "name": "Uốn",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "uon-toc",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây ",
+        "amount": 1,
+        "price": 20000,
+        "id": 1
+      }
+    },
+    {
+      "data": {
+        "name": "Gội",
+        "img": "https://s3-alpha-sig.figma.com/img/f7b3/c3bc/7f70cf0f7fa7c74e1aad71e1eb012c21?Expires=1663545600&Signature=MrgpR~wMyJMHhixIHGlpx70Ek1Nzx2M0jUmY63mbZAThvG0MPOFMAcxSTQl0oIxe3tWXQ1-4GWttx6WYCByXETwv3C~isJpeVgJ~Nq6I7o9Qw~PYA17AvZXEkjUEsBqZApHQit~cOU-2iVh~2SGE-5goLUTqVZHljhR6XOcG0ZNyAg9IVVfGyVxzqQkkEOXI1L2Yu5NQeU6qgK-N0wxmbd1D4wbOVFd-SeM~HisECqoGiiERF~P7RcNFYZpqlNLbIPN6jQRPfQjg9TGZqPGIR65i7Pst2SnGgP54YHtUCvymAizkxLpDVsBmoiZm6Y5dAq~PMy5YGWSlBW2IwbTJ0w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "slug": "uon-toc",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 1000,
+        "id": 2
+      }
+    },
+    {
+      "data": {
+        "name": "Nhộm",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "uon-toc",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 4000,
+        "id": 3
+      }
+    },
+    {
+      "data": {
+        "name": "Phục hồi",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "uon-toc",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 8000,
+        "id": 4
+      }
+    },
+    {
+      "data": {
+        "name": "Nối tóc",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "goi",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 29999,
+        "id": 5
+      }
+    },
+    {
+      "data": {
+        "name": "Cắt tóc",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "nhom",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 28999,
+        "id": 6
+      }
+    },
+    {
+      "data": {
+        "name": "Quá trình trị liệu rụng tóc",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "nhom",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 28999,
+        "id": 7
+      }
+    },
+    {
+      "data": {
+        "name": "massage",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "nhom",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 28999,
+        "id": 8
+      }
+    },
+    {
+      "data": {
+        "name": "Gội dưỡng sinh",
+        "img": "https://cdn.shopify.com/s/files/1/2922/2556/t/17/assets/rosengber-sh-locations-copy-1653331468149.jpg?v=1653331470",
+        "slug": "nhom",
+        "content": "Gội Đầu Dưỡng sinh Trải nghiệm những phút giây thư giãn sau một tuần làm việc",
+        "amount": 1,
+        "price": 28999,
+        "id": 9
+      }
+    }
+  ],
+  "staff": [
+    {
+      "data": {
+        "id": 1,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 2,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 3,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 4,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 5,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 6,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    },
+    {
+      "data": {
+        "id": 7,
+        "img": "https://cdn.ihoctot.com/nhan-vien-phuc-vu-nha-hang-tieng-anh-la-gi--5d2e80d3fbdfbb251ad1384949542b9c.wepb",
+        "name": "Hoạ Thần Vũ",
+        "experience": "3"
+      }
+    }
+  ]
+}

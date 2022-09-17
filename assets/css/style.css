@@ -1,0 +1,124 @@
+@font-face {
+  font-family: 'Minion Pro';
+  src: local('Minion Pro'), url('../font/MinionPro-Bold.woff2') format('woff2'),
+    url('../font/MinionPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: local('Mulish'),
+    url('../font/Mulish-VariableFont_wght.ttf') format('ttf');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: local('Open Sans'), url('../font/OpenSans-Italic.woff2') format('woff2'),
+    url('../font/OpenSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: local('Open Sans'), url('../font/OpenSans-Regular.woff2') format('woff2'),
+    url('../font/OpenSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+* {
+  box-sizing: border-box;
+  scroll-margin-top: 60px;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.styles_list__pF0RY .slick-prev {
+  display: none !important;
+  background-color: black;
+}
+.styles_list__pF0RY .slick-next {
+  display: none !important;
+}
+.styles_Grid__bbsQd .react-calendar {
+  border: unset !important;
+  border-radius: 5px;
+  background-color: #bfc9c2;
+  color: black;
+  font-size: 18px !important;
+}
+.styles_Grid__bbsQd .react-calendar__navigation__label__labelText {
+  font-weight: 700 !important;
+}
+.styles_Grid__bbsQd .react-calendar__tile--active {
+  background-color: #006c4e !important;
+  border-radius: 5px;
+}
+.styles_listCart__I1FkM
+  .css-1pi9rcw-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #00513a !important;
+  border-radius: 50%;
+}
+.styles_Grid__bbsQd .react-calendar__tile--now {
+  background: #ffff76;
+  border-radius: 5px;
+}
+/* border textFiled */
+.styles_loca___nejC .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 20px;
+}
+.styles_loca___nejC .MuiInputBase-input {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+
+.styles_search__D0Eaw .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 20px;
+}
+.styles_search__D0Eaw .MuiInputBase-input {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+.styles_GridCardMoblie__epsMs .MuiAvatar-root {
+  padding: 0 !important;
+  width: 80px !important;
+  height: 80px !important;
+  border-radius: 10% !important;
+  margin: 0;
+}
+.styles_GridCardMoblie__epsMs ul {
+  padding: 0 !important;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.styles_GridCardMoblie__epsMs li {
+  padding: 0 !important;
+}
+
+.styles_GridCardMoblie__epsMs .MuiListItemAvatar-root {
+  margin: 0 !important;
+}
+.styles_banner__rtnMF .MuiFormControl-root {
+  position: unset !important;
+}
+.styles_banner__rtnMF .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 20px;
+  position: unset !important;
+  background: #fff;
+}
+.styles_banner__rtnMF .MuiOutlinedInput-notchedOutline {
+  display: none;
+}

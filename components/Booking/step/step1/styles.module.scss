@@ -1,0 +1,56 @@
+.loca {
+  max-width: 1140px;
+  margin: 0 auto;
+  background: #f4fff7;
+  .Location {
+    width: 100%;
+    // position: absolute;
+    position: relative;
+    background: #ffffff;
+    padding: 20px 0;
+    top: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 540px;
+    .list {
+      padding: 0 13.125px;
+      ::-webkit-scrollbar {
+        width: 5px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background-color: #006c4e;
+        border-radius: 5px;
+      }
+    }
+    .map {
+      padding: 0 13.125px;
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .loca {
+    max-width: 1140px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 0px;
+    background: #f4fff7;
+    height: 94vh;
+    .Location {
+      width: 100%;
+      background: #f4fff7;
+      padding: 0;
+      border-top-right-radius: 20px;
+      border-bottom-right-radius: 20px;
+      border-bottom-left-radius: 20px;
+      height: unset;
+      .list {
+        margin-bottom: 30px;
+      }
+      .map {
+        display: none;
+      }
+    }
+  }
+}

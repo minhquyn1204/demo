@@ -1,0 +1,66 @@
+.Step {
+  background: #f4fff7;
+  position: relative;
+  height: 100vh;
+  .tab {
+    margin: 0 auto;
+    max-width: 1140px;
+    position: relative;
+    .tabs {
+      position: absolute;
+      display: flex;
+      top: 10px;
+      .item {
+        cursor: pointer;
+        text-align: center;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        padding: 10px;
+        background: #00513a;
+        width: 88px;
+        color: #fff;
+      }
+      .item:nth-child(2) {
+        margin-left: 5px;
+      }
+      .item:nth-child(3) {
+        margin-left: 5px;
+      }
+      .item:nth-child(4) {
+        margin-left: 5px;
+      }
+      .item:nth-child(5) {
+        margin-left: 5px;
+      }
+      .item.active {
+        background-color: #bfc9c2;
+      }
+      .item.active1 {
+        color: #00513a;
+        background-color: #ffffff;
+        width: 10px;
+        border-left: 4px solid #00513a;
+      }
+    }
+  }
+}
+@media screen and (max-width: 900px) {
+  .Step {
+    .tab {
+      .tabs {
+        .item {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .Step {
+    z-index: 100;
+    height: unset;
+    .tab {
+      display: none;
+    }
+  }
+}

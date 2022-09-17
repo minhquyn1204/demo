@@ -1,0 +1,151 @@
+.Time {
+  max-width: 1140px;
+  position: relative;
+  margin: 0 auto;
+  .body {
+    width: 100%;
+    position: relative;
+    background: #ffffff;
+    padding: 20px 0;
+    top: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    height: 540px;
+    .taskbar {
+      display: none;
+    }
+    h3 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 400;
+      margin: 0;
+      margin-bottom: 20px;
+    }
+    .Grid {
+      width: 100%;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .calendar {
+        margin: 0 auto;
+        padding: 0 13.125px;
+        .slected1 {
+          display: none;
+        }
+        .react_calendar {
+          margin: 0 auto;
+        }
+      }
+      .boder {
+        border: 1px solid #006c4e;
+        height: 360px;
+        border-radius: 5px;
+      }
+      .selectTime {
+        margin: 0 auto;
+        padding: 0 13.125px;
+        .slected2 {
+          display: none;
+        }
+        .mrb1 {
+          .nameTime {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: flex-end;
+            svg {
+              color: #ffa726;
+              margin-right: 10px;
+              width: 20px;
+              height: 20px;
+            }
+          }
+          .morning {
+            .TimeMorning {
+              cursor: pointer;
+              text-align: center;
+              margin-left: 10px;
+              margin-bottom: 10px;
+              background-color: #bfc9c2;
+              border-radius: 5px;
+              color: #000;
+              padding: 5px;
+            }
+            .TimeMorning.active {
+              background-color: #006c4e;
+              color: #ffffff;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 600px) {
+  .Time {
+    .body {
+      position: unset;
+      background: #f4fff7;
+      padding: 0;
+      top: 0;
+      border-top-right-radius: unset;
+      border-bottom-right-radius: unset;
+      border-bottom-left-radius: unset;
+      height: unset;
+      .taskbar {
+        padding: 20px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        .back {
+          svg {
+            width: 25px;
+            height: 25px;
+            font-weight: 500;
+            color: #006c4e;
+          }
+        }
+        .title {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+          font-size: 20px;
+          color: #006c4e;
+          font-weight: 500;
+        }
+      }
+      h3 {
+        display: none;
+      }
+      .Grid {
+        margin-bottom: 20px;
+        .calendar {
+          margin-bottom: 20px;
+          .slected1 {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 24px;
+            font-weight: 500;
+          }
+        }
+        .boder {
+          height: unset;
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        .selectTime {
+          margin-bottom: 20px;
+          .slected2 {
+            display: block;
+            margin-bottom: 10px;
+            font-size: 24px;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+  }
+}

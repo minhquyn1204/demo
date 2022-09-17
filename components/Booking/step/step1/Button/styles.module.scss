@@ -1,0 +1,27 @@
+.next {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  padding: 0 50px;
+}
+@media screen and (max-width: 900px) {
+  .next {
+    right: 10px;
+    bottom: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .next {
+    position: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+    Button {
+      background-color: #006c4e;
+      width: 250px;
+      border-radius: 50px;
+    }
+  }
+}
